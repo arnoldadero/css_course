@@ -1,6 +1,7 @@
-body p {
-    font-size: 32px !important;
-    color: rgb(56, 165, 62) !important;
+
+body h1 {
+    font-size: 40px !important;
+    color: rgb(255, 171, 0) !important;
     font-weight: bold;
     text-align: center;
 }
